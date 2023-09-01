@@ -33,7 +33,7 @@
         "egulias/email-validator": "^4.0",
         "elvanto/litemoji": "^4.1",
         "glpi-project/inventory_format": "^1.1",
-        "guzzlehttp/guzzle": "^7.7",
+        "guzzlehttp/guzzle": "^7.8",
         "guzzlehttp/psr7": "^2.5",
         "html2text/html2text": "^4.3",
         "jasig/phpcas": "^1.6",
